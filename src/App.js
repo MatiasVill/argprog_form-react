@@ -1,5 +1,5 @@
 import "./App.css";
-import RegistroForm from "./RegistroForm";
+import RegistroForm from './components/RegistroForm/RegistroForm.jsx'
 
 function App() {
     return (
